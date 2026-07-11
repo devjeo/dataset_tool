@@ -1,0 +1,10 @@
+opencv-python
+PyYAML
+Pillow
+
+# Windows only: curses isn't bundled with Windows Python.
+# If you're on Windows, also run: pip install windows-curses
+#
+# Tkinter (used by the "Annotate / Edit Boxes" GUI feature) ships with the
+# official python.org Windows/macOS installers. On Linux it's a separate
+# package, e.g.: sudo apt install python3-tk
